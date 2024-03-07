@@ -14,3 +14,4 @@ pixelwise accuracy in fcn 32s -  0.8706499348958332
 
 The models are available through the kaggle notebook . 
 kaggle notebook link - https://www.kaggle.com/code/shivamguptakaggle/fcn-segmentation-1-final
+original paper - https://arxiv.org/abs/1411.4038
