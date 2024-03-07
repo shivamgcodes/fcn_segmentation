@@ -12,4 +12,5 @@ iou in fcn 32s -  0.33139500959453305
 mean accuracy in fcn 32s -  0.7245959772991014
 pixelwise accuracy in fcn 32s -  0.8706499348958332
 
-i have uploaded the 70th epoch of my models.
+The models are available through the kaggle notebook . 
+kaggle notebook link - https://www.kaggle.com/code/shivamguptakaggle/fcn-segmentation-1-final
